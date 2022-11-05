@@ -1,2 +1,2 @@
 # CS339-Project1
-Created 1-22-2020
+This project was a recreation of Pong in the GameMakerStudio 2 program.
